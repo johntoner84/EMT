@@ -1,0 +1,11 @@
+document.write("<!--*\n");
+document.write("var aolAdId=\"3565308|4\";\n");
+document.write("var aolSize=\"728|90\";\n");
+document.write("*-->\n");
+document.write("<SCR"+"IPT language='JavaScript1.1' SRC=\"http://at.atwola.com/addyn/3.0/5071.254/-1/0/225/noperf=1;alias=93319886;click=http%3A//at.atwola.com/adlink%2F5113%2F2298429%2F0%2F225%2FAdId%3D3565308%3BBnId%3D4%3Bitime%3D354669032%3Bnodecode%3Dyes%3Bimpref%3D1433354670486609280%3Bimprefseq%3D66430418383013056%3Bimprefts%3D1433354670%3Blink%3D;ord=354669032?\">\n");
+document.write("</SCR"+"IPT>\n");
+
+
+
+
+document.write("<scr"+"ipt src=\""+(window.location.protocol=='https:' ? "https://aka-cdn.adtechus.com" : "http://aka-cdn-ns.adtechus.com")+"/media/moat/adtechbrands092348fjlsmdhlwsl239fh3df/moatad.js#moatClientLevel1=5113&moatClientLevel2=164071&moatClientLevel3=0&moatClientLevel4=2298429&zMoatMaster=3565047&zMoatFlight=3565308&zMoatBanner=340662891&zURL=http&zMoatPlacementId=2298429&zMoatAdId=3565308&zMoatCreative=0&zMoatBannerID=4&zMoatCustomVisp=50&zMoatCustomVist=1000&zMoatIsAdvisGoal=0&zMoatEventUrl=&zMoatSize=225&zMoatSubNetID=1&zMoatisSelected=1&zMoatadServer=at.atwola.com&zMoatadVisServer=&zMoatSamplingRate=23&zMoatliveTestCookie=&zMoatRefSeqId=ATAAS0hAsDA\" type=\"text/javascript\"></scr"+"ipt>");

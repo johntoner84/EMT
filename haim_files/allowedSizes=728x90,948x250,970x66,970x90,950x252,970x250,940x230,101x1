@@ -1,0 +1,21 @@
+document.write("<!--*\n");
+document.write("var aolAdId=\"3565308|2\";\n");
+document.write("var aolSize=\"728|90\";\n");
+document.write("*-->\n");
+document.write("<SCR"+"IPT language='JavaScript1.1' SRC=\"http://at.atwola.com/addyn/3.0/5071.254/-1/0/225/noperf=1;alias=93318066;click=http%3A//at.atwola.com/adlink%2F5113%2F2211854%2F0%2F225%2FAdId%3D3565308%3BBnId%3D2%3Bitime%3D354621809%3Bnodecode%3Dyes%3Bimpref%3D1433354621536928262%3Bimprefseq%3D77970905313051558%3Bimprefts%3D1433354621%3Blink%3D;ord=354621809?\">\n");
+document.write("</SCR"+"IPT>\n");
+
+
+
+
+document.write("<scr"+"ipt src=\""+(window.location.protocol=='https:' ? "https://aka-cdn.adtechus.com" : "http://aka-cdn-ns.adtechus.com")+"/media/moat/adtechbrands092348fjlsmdhlwsl239fh3df/moatad.js#moatClientLevel1=5113&moatClientLevel2=142601&moatClientLevel3=0&moatClientLevel4=2211854&zMoatMaster=3565047&zMoatFlight=3565308&zMoatBanner=340408667&zURL=http&zMoatPlacementId=2211854&zMoatAdId=3565308&zMoatCreative=0&zMoatBannerID=2&zMoatCustomVisp=50&zMoatCustomVist=1000&zMoatIsAdvisGoal=0&zMoatEventUrl=&zMoatSize=225&zMoatSubNetID=1&zMoatisSelected=1&zMoatadServer=at.atwola.com&zMoatadVisServer=&zMoatSamplingRate=23&zMoatliveTestCookie=&zMoatRefSeqId=nOAASAiAVEA\" type=\"text/javascript\"></scr"+"ipt>");
+document.write("<!--*\n");
+document.write("O&O - HTML - Blank HTML\n");
+document.write("var aolAdId=\"1979307|1\";\n");
+document.write("*-->\n");
+
+var adcount_2213501_1_=new Image();
+adcount_2213501_1_.src="http://at.atwola.com/adcount/3.0/5113/2213501/0/594/AdId=1979307;BnId=1;ct=3775966367;st=16196;adcid=1;itime=354621828;reqtype=5;;impref=1433354621536928276;imprefseq=77970905313051564;imprefts=1433354621";
+
+
+ADTECH_getNumberOfAddonBanners = function() { return 0; }

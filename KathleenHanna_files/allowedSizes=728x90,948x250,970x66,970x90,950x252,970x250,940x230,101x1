@@ -1,0 +1,22 @@
+document.write("<!--*\n");
+document.write("var aolAdId=\"6949932|449632548\";\n");
+document.write("var aolSize=\"728|90\";\n");
+document.write("var aolFormat=\"InBannerVendorProduct\";\n");
+document.write("*-->\n");
+var gfEbForceStreaming  =  1;
+
+document.write("<scr"+"ipt src=\"http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=rsb&c=28&pli=13388009&PluID=0&w=728&h=90&ord=354377559&ucm=true&ncu=$$http://at.atwola.com/adlink/5113/2211794/0/225/AdId=6949932;BnId=1;itime=354377559;kp=673863;nodecode=yes;impref=14333543772718863054;imprefseq=71778464398588510;imprefts=1433354377;link=$$\"></scr"+"ipt>\n");
+
+
+
+
+document.write("<!--*\n");
+document.write("O&O - HTML - Blank HTML\n");
+document.write("var aolAdId=\"1979307|1\";\n");
+document.write("*-->\n");
+
+var adcount_2213486_1_=new Image();
+adcount_2213486_1_.src="http://at.atwola.com/adcount/3.0/5113/2213486/0/594/AdId=1979307;BnId=1;ct=3532215699;st=8559;adcid=1;itime=354377570;reqtype=5;;impref=14333543772718863060;imprefseq=71778464398588514;imprefts=1433354377";
+
+
+ADTECH_getNumberOfAddonBanners = function() { return 0; }

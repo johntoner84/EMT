@@ -1,0 +1,62 @@
+
+<!-- saved from url=(0050)http://www.huffingtonpost.com/_uac/2014adpage.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript">
+var dom=location.hash
+if (dom!=''){
+  dom=dom.substr(1)
+  if (dom!=1)document.domain=dom
+ 
+}
+
+function adsPageOnL(){
+  if (dom!=1){
+try {  var adFr=window.frameElement } 
+catch (e) { 
+document.domain=document.domain;
+var adFr=window.frameElement;
+}
+  if (adFr){
+      if (adFr.textAd!=1){
+        var collapse=parent.adsCkCol(adFr,document)
+        if (!collapse&&adFr.divName){
+          var parDiv=parent.document.getElementById(adFr.divName)
+          if (parDiv&&(parDiv.dynSz==1)&&parent.adsRMIFOnL){
+	      parent.adsRMIFOnL(window,document)
+          }
+        }
+      }
+      else
+        parent.adsDoOnL(adFr,document)
+  }
+  }
+}
+</script>
+</head>
+<body onload="setTimeout(&quot;adsPageOnL()&quot;,10)" style="overflow: visible; border:0; background-color: transparent;" marginwidth="0" marginheight="0">
+
+<div id="adDiv" style="overflow: visible; border:0;">
+<span id="adSpan" style="overflow: visible; border:0;">
+<table id="adTable" style="display:inline; border-collapse:collapse;">
+<tbody><tr><td style="padding:0px">
+<script type="text/javascript">
+if (dom!=1){
+inDapIF=true
+inFIF=true
+if (parent.adsGetAdURL)
+    document.write("<scr"+"ipt type='text/javascript' src='"+parent.adsGetAdURL(window)+"'></scr"+"ipt>")
+}
+</script><script type="text/javascript" src="allowedSizes=728x90,948x250,970x66,970x90,950x252,970x250,940x230,101x1"></script><!--*
+O&O - HTML - DEVIL Companion Blank HTML
+var ibwTemplateId=108;
+var aolAdId="6930816|450652452";
+var aolSize="728|90";
+var aolFormat="HTML";
+*-->
+<!-- *
+AOL - HTML - Blank HTML Ad http://at.atwola.com/adcount/3.0/5113/2298429/0/225/AdId=6930816;BnId=2;ct=3795295214;st=5462;adcid=1;itime=354640277;reqtype=5;;impref=1433354641100725402;imprefseq=35186597183882087;imprefts=1433354641
+* -->
+
+</td></tr></tbody></table>
+</span></div>
+</body></html>

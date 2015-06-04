@@ -1,0 +1,8 @@
+var ANUT=1;
+var ANOO=0;
+var ANSR=0;
+var ANTID='TA83e2b89d-099c-11e5-92af-00163e6c5337';
+var ANSL;
+ANRTXR();
+ANDEMO();
+
